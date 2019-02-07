@@ -1,0 +1,7 @@
+{
+  "versions": [
+    { "id": 1, "version": "2.2.0" },
+    { "id": 2, "artefact": "2.2.1" },
+    { "id": 3, "artefact": "3.0.0" }
+  ]
+}
